@@ -1,4 +1,8 @@
-// link to the problem: https://usaco.org/index.php?page=viewproblem2&cpid=615
+/*
+Author: Tai Ngo
+Date: 13-Feb-2025
+Link to the problem: https://usaco.org/index.php?page=viewproblem2&cpid=615
+*/
 
 #include <bits/stdc++.h>
 #include <cstdio>
@@ -18,7 +22,6 @@ int main()
 
   for (int i = 0; i <= b3; i++)
   {
-
     if (b1 * i > b3)
       break;
 

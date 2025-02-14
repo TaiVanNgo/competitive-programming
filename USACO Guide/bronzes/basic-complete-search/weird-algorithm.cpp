@@ -1,4 +1,8 @@
-// link to the problem: https://cses.fi/problemset/task/1068/
+/*
+Author: Tai Ngo
+Date: 13-Feb-2025
+Link to the problem: https://cses.fi/problemset/task/1068/
+*/
 
 #include <iostream>
 

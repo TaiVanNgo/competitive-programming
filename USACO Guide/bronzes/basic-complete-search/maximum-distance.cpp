@@ -1,4 +1,8 @@
-// link to the problem: https://codeforces.com/gym/102951/problem/A
+/*
+Author: Tai Ngo
+Date: 13-Feb-2025
+Link to the problem: https://codeforces.com/gym/102951/problem/A
+*/
 
 #include <bits/stdc++.h>
 
@@ -24,7 +28,7 @@ int main()
     cin >> t;
   }
 
-  for (int i = 0; i < N; i++)
+  for (int i = 0; i < N; i++) 
   {
     for (int j = i + 1; j < N; j++)
     {
