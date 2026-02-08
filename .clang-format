@@ -1,0 +1,4 @@
+# .clang-format  ── applies recursively to all sub-dirs
+BasedOnStyle: Google        # or LLVM, Microsoft, etc.
+SpacesInAngles: false        # turns '>>' into '> >'
+Standard: Cpp03
